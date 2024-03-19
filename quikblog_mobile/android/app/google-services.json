@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029678755879",
+    "project_id": "mobile-odiblc",
+    "storage_bucket": "mobile-odiblc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029678755879:android:a674d1fb56b78abc001e02",
+        "android_client_info": {
+          "package_name": "com.mycompany.quikblogmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHXPxO0Me8W0zVew7Eg-qfOLoE8hQSBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
